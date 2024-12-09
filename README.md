@@ -1,1 +1,0 @@
-# File-to-QR-code-generator
